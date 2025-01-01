@@ -122,6 +122,11 @@ These demo components are just for demonstration purposes and can be easily repl
    npm run upload
    ```
 
+7. To automate the process of running the app, you can use the provided `run.sh` script. This script will install the dependencies and start the development server. Run the following command:
+   ```
+   ./run.sh
+   ```
+
 ## How to build your application
 
 1. Remove the default components from the `src/artifacts/` directory.
